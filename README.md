@@ -6,4 +6,4 @@ Servidor rodando em Go, com GraphQL e SQLite.
 
 `localhost:8080`
 
-![Demonstração do Playground do GraphQL](/demo.png)
+![Demonstração do Playground do GraphQL](/demo_play.png)
