@@ -6,6 +6,7 @@ services:
       context: go
     container_name: go
     tty: true 
+    entrypoint: go run /src/cmd/server/server.go
     volumes:
       - ./go:/src
     ports:
